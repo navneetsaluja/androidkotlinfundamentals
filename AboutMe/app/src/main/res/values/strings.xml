@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Navneet</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis mi eu efficitur dignissim. Sed hendrerit, diam eget gravida gravida, tellus nisl consequat velit, vel volutpat massa nunc sed diam. Morbi nunc purus, lacinia vitae vulputate a, facilisis at turpis. Integer a egestas mi. Donec eu lacus vel turpis maximus scelerisque vitae id mauris. Morbi tristique id sapien nec facilisis. Sed egestas posuere interdum. Mauris vulputate augue sit amet eleifend rutrum. Integer tincidunt vehicula elit.\n\n
+
+Sed mi sapien, pellentesque sed auctor quis, scelerisque vel nulla. Aliquam mi velit, mollis nec enim nec, tincidunt interdum urna. Nunc eleifend quam sit amet diam pretium, a placerat diam porta. Morbi tincidunt eget magna id mattis. Phasellus vitae sodales metus, ut varius dui. Fusce in venenatis metus, nec auctor velit. Phasellus ac molestie enim, id venenatis lacus.\n\n
+
+Nulla ac arcu a risus congue tincidunt. Fusce bibendum tortor vel sapien accumsan, id elementum sem luctus. Proin vitae sem ut felis commodo elementum et eu orci. Nullam pharetra urna sit amet magna luctus, eu hendrerit sem pellentesque. Quisque ultrices in augue luctus viverra. Curabitur varius maximus fringilla. Nunc consequat sapien id massa tincidunt, id varius tellus fermentum. Morbi bibendum euismod tempor.\n\n </string>
+    
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="Done">Done</string>
+</resources>
