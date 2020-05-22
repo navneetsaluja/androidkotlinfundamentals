@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/6538e744139ad6b4aca9631761232d07/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/cf72509c23ab694f5117eb714bb0a68a/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b7a9ae6ef293a5c6fb70015b803fc682/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8f9defd1c7c1e606b57a069dc3dc5d18/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d718e1fcee653601feb2a33d3373c8c2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/c7085e6b60066c24dc13fc5c3270b80a/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] /home/navneet/.gradle/caches/transforms-2/files-2.1/f4ca387b29cb86f83e5da1d61da8a436/constraintlayout-2.0.0-alpha1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a9a11841be7413b268b89325b351a231/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/70e1b5c05610ed49688c66630ebddf57/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/73110374960c37a5d37741c47170753f/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/26589dcd87020a68407edc3b8c5ece94/legacy-support-v4-1.0.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/54135581a48bf1a3739fa3b43ba8d4dd/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/0e9b9dd829b62ae05a0947ed42169551/media-1.0.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ed68f1edaaa7f72d632eafbe4a630a47/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/317abf357b2fa66aca544d03e1fa60ef/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8be5114c6321c7c28e2fa64c72438653/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/48ca6e26e7bfbe25eb33e02471484d47/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ece3b2f2a3af9e532bd213e824c8cf45/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a55100f8bab85d7f396eba751daa9b43/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f15e33082c508e13d2c27cc598ce4e2c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/5db6156a3cc0c20d3115c98e7ef841ef/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/002b86fbbff6ede9437f3ead4cd48e8a/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b98b830968ca8905446c2d3ce6bf01e0/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f36fffb8884227856620c383859eb45c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/afcd7ad29d2895472bc0bc349775358b/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/3a75775d5d2dd93805b7acf34afd21cd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/acc5f274cdeb4f2d8dedf56f3b3df443/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/1990f99ba2d2ae01003b398fcca19be1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/2955a8dbc17c616573632422107a251d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/472be0b92026df4a48d86816e1d60436/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7f1a42f3543a2d45fd5a1948ba4f38fb/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/4c2f9c7145ac346fbfa5948d17758a28/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7abcedb301e5e16a6e8a25e12b708ca4/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/dae6f64a5c725d1295c448dee8fc77de/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d9d9fca7b65ccd70bf99316d65787790/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/64ce3a82e31a02a00d6e361d14024b3e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/0fe98664b2f5deb8196707138961f8a5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/69d2ac28bb8f6031468b92e673e7cfc3/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f0d7658237d03229260a3049f065de35/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/81567b71ec2fb667193214d73d34925d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/564c2c741f0233e5c50ac3f0fb80d5df/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ef27cd75b3def3a5f60969b2c2e1a405/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d4e6133e91655a5b781a2b0aa87312cc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:19:5-45
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:1-38:12
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:21:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] /home/navneet/.gradle/caches/transforms-2/files-2.1/f4ca387b29cb86f83e5da1d61da8a436/constraintlayout-2.0.0-alpha1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] /home/navneet/.gradle/caches/transforms-2/files-2.1/f4ca387b29cb86f83e5da1d61da8a436/constraintlayout-2.0.0-alpha1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/70e1b5c05610ed49688c66630ebddf57/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/70e1b5c05610ed49688c66630ebddf57/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7abcedb301e5e16a6e8a25e12b708ca4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7abcedb301e5e16a6e8a25e12b708ca4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.navigation.MainActivity
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:28:9-35:20
+	android:configChanges
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/6538e744139ad6b4aca9631761232d07/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/6538e744139ad6b4aca9631761232d07/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/cf72509c23ab694f5117eb714bb0a68a/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/cf72509c23ab694f5117eb714bb0a68a/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b7a9ae6ef293a5c6fb70015b803fc682/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b7a9ae6ef293a5c6fb70015b803fc682/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8f9defd1c7c1e606b57a069dc3dc5d18/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8f9defd1c7c1e606b57a069dc3dc5d18/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d718e1fcee653601feb2a33d3373c8c2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d718e1fcee653601feb2a33d3373c8c2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/c7085e6b60066c24dc13fc5c3270b80a/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/c7085e6b60066c24dc13fc5c3270b80a/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] /home/navneet/.gradle/caches/transforms-2/files-2.1/f4ca387b29cb86f83e5da1d61da8a436/constraintlayout-2.0.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] /home/navneet/.gradle/caches/transforms-2/files-2.1/f4ca387b29cb86f83e5da1d61da8a436/constraintlayout-2.0.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a9a11841be7413b268b89325b351a231/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a9a11841be7413b268b89325b351a231/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/70e1b5c05610ed49688c66630ebddf57/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/70e1b5c05610ed49688c66630ebddf57/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/73110374960c37a5d37741c47170753f/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/73110374960c37a5d37741c47170753f/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/26589dcd87020a68407edc3b8c5ece94/legacy-support-v4-1.0.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/26589dcd87020a68407edc3b8c5ece94/legacy-support-v4-1.0.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/54135581a48bf1a3739fa3b43ba8d4dd/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /home/navneet/.gradle/caches/transforms-2/files-2.1/54135581a48bf1a3739fa3b43ba8d4dd/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/0e9b9dd829b62ae05a0947ed42169551/media-1.0.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] /home/navneet/.gradle/caches/transforms-2/files-2.1/0e9b9dd829b62ae05a0947ed42169551/media-1.0.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ed68f1edaaa7f72d632eafbe4a630a47/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ed68f1edaaa7f72d632eafbe4a630a47/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/317abf357b2fa66aca544d03e1fa60ef/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/317abf357b2fa66aca544d03e1fa60ef/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8be5114c6321c7c28e2fa64c72438653/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/8be5114c6321c7c28e2fa64c72438653/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/48ca6e26e7bfbe25eb33e02471484d47/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/48ca6e26e7bfbe25eb33e02471484d47/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ece3b2f2a3af9e532bd213e824c8cf45/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ece3b2f2a3af9e532bd213e824c8cf45/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a55100f8bab85d7f396eba751daa9b43/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/a55100f8bab85d7f396eba751daa9b43/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f15e33082c508e13d2c27cc598ce4e2c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f15e33082c508e13d2c27cc598ce4e2c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/5db6156a3cc0c20d3115c98e7ef841ef/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/5db6156a3cc0c20d3115c98e7ef841ef/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/002b86fbbff6ede9437f3ead4cd48e8a/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/002b86fbbff6ede9437f3ead4cd48e8a/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b98b830968ca8905446c2d3ce6bf01e0/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/b98b830968ca8905446c2d3ce6bf01e0/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f36fffb8884227856620c383859eb45c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f36fffb8884227856620c383859eb45c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/afcd7ad29d2895472bc0bc349775358b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/afcd7ad29d2895472bc0bc349775358b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/3a75775d5d2dd93805b7acf34afd21cd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/3a75775d5d2dd93805b7acf34afd21cd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/acc5f274cdeb4f2d8dedf56f3b3df443/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/acc5f274cdeb4f2d8dedf56f3b3df443/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/1990f99ba2d2ae01003b398fcca19be1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/1990f99ba2d2ae01003b398fcca19be1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/2955a8dbc17c616573632422107a251d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/2955a8dbc17c616573632422107a251d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/472be0b92026df4a48d86816e1d60436/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/472be0b92026df4a48d86816e1d60436/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7f1a42f3543a2d45fd5a1948ba4f38fb/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7f1a42f3543a2d45fd5a1948ba4f38fb/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/71437e5faa192d0f637dc8bebd28c4e7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/4c2f9c7145ac346fbfa5948d17758a28/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/4c2f9c7145ac346fbfa5948d17758a28/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7abcedb301e5e16a6e8a25e12b708ca4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/7abcedb301e5e16a6e8a25e12b708ca4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/dae6f64a5c725d1295c448dee8fc77de/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/dae6f64a5c725d1295c448dee8fc77de/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d9d9fca7b65ccd70bf99316d65787790/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d9d9fca7b65ccd70bf99316d65787790/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/64ce3a82e31a02a00d6e361d14024b3e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/64ce3a82e31a02a00d6e361d14024b3e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/0fe98664b2f5deb8196707138961f8a5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/0fe98664b2f5deb8196707138961f8a5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/69d2ac28bb8f6031468b92e673e7cfc3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/69d2ac28bb8f6031468b92e673e7cfc3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f0d7658237d03229260a3049f065de35/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/f0d7658237d03229260a3049f065de35/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/81567b71ec2fb667193214d73d34925d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/81567b71ec2fb667193214d73d34925d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/564c2c741f0233e5c50ac3f0fb80d5df/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/564c2c741f0233e5c50ac3f0fb80d5df/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ef27cd75b3def3a5f60969b2c2e1a405/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/ef27cd75b3def3a5f60969b2c2e1a405/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d4e6133e91655a5b781a2b0aa87312cc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/navneet/.gradle/caches/transforms-2/files-2.1/d4e6133e91655a5b781a2b0aa87312cc/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/navneet/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/AndroidManifest.xml
