@@ -57,41 +57,21 @@ class GameFragment : Fragment() {
         Log.i("GameFragment", "Called ViewModelProviders.of")
         viewModel = ViewModelProvider(this).get(GameViewModel::class.java)
 
+        // Specify the fragment view as the lifecycle owner of the binding.
+        // This is used so that the binding can observe LiveData updates
+        binding.lifecycleOwner = viewLifecycleOwner
+
+        // Set the viewmodel for databinding - this allows the bound layout access
+        // to all the data in the ViewModel
+        binding.gameViewModel = viewModel
+
         // Observer for the Game finished event
         viewModel.eventGameFinish.observe(viewLifecycleOwner, Observer<Boolean> { hasFinished ->
             if (hasFinished) gameFinished()
         })
 
-        binding.correctButton.setOnClickListener { onCorrect() }
-        binding.skipButton.setOnClickListener { onSkip() }
-        binding.endGameButton.setOnClickListener { onEndGame() }
-
-
-        viewModel.score.observe(viewLifecycleOwner, Observer { newScore ->
-            binding.scoreText.text = newScore.toString()
-        })
-        /** Setting up LiveData observation relationship **/
-        viewModel.word.observe(viewLifecycleOwner, Observer { newWord ->
-            binding.wordText.text = newWord
-        })
-
         return binding.root
 
-    }
-
-
-    /** Methods for button click handlers **/
-
-    private fun onSkip() {
-        viewModel.onSkip()
-    }
-
-    private fun onCorrect() {
-        viewModel.onCorrect()
-    }
-
-    private fun onEndGame() {
-        gameFinished()
     }
 
     private fun gameFinished() {
